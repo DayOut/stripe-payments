@@ -3,6 +3,12 @@
   "description": "Stripe Payment Methods suite",
   "version": "2.0.12",
   "type": "metapackage",
+  "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/DayOut/stripe-module-creditcards.git"
+        }
+    ],
   "require": {
     "stripeofficial/module-core": ">=2.0.13",
     "stripeofficial/module-alipay": ">=1.0.4",
