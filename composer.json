@@ -1,5 +1,5 @@
 {
-  "name": "stripeofficial/stripe-payments",
+  "name": "DayOut/stripe-payments",
   "description": "Stripe Payment Methods suite",
   "version": "2.0.12",
   "type": "metapackage",
