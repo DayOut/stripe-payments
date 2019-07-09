@@ -13,7 +13,7 @@
     "stripeofficial/module-core": ">=2.0.13",
     "stripeofficial/module-alipay": ">=1.0.4",
     "stripeofficial/module-bancontact": ">=1.0.4",
-    "stripeofficial/module-creditcards": "~",
+    "stripeofficial/module-creditcards": "dev-bugfix as master",
     "stripeofficial/module-giropay": ">=1.0.4",
     "stripeofficial/module-ideal": ">=1.0.4",
     "stripeofficial/module-instant-checkout": ">=1.0.9",
